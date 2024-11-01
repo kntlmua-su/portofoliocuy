@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kntlmua-su/portofoliocuy/sitemap.xml
+Sitemap: https://kntlmua-su.github.io/sitemap.xml
